@@ -2,7 +2,7 @@
 <!-- Title -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome to my GitHub profile 👋</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome to my GitHub profile </h1></summary>
 </div>
 
 <!-- Introduction -->
