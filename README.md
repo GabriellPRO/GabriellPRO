@@ -7,7 +7,7 @@
 
 <!-- Apresentação -->
 <p>
-  Olá! Eu sou o <strong>Gabriel Reis</strong>, Tecnólogo em Redes de Computadores e apaixonado por desenvolvimento Fullstack.
+  Olá! Eu sou  <strong>Gabriel Reis</strong>, Tecnólogo em Redes de Computadores e apaixonado por desenvolvimento Fullstack.
 
   - 🌱 Atualmente estudando desenvolvimento web com foco em JavaScript, Node.js, React e MongoDB.
 
