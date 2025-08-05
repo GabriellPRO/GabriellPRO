@@ -29,7 +29,7 @@
 
 <!-- Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabriellPRO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriell-johansson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-oliveira-reis-9bb315377/)
 
 <!-- GitHub Stats -->
 ![GabriellPRO GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellPRO&show_icons=true&theme=gotham)
