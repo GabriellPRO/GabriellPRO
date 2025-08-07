@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Gabriel Reis</h1>
-<h3 align="center">Junior Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
+<h3 align="center"> Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
 
 ---
 
