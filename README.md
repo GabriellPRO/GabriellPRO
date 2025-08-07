@@ -24,7 +24,7 @@
   <a href="https://github.com/GabriellPRO">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriell-johansson/">
+  <a href="https://www.linkedin.com/in/gabriel-de-oliveira-reis-9bb315377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8HERuxjpS3KbWV9h2PF2zw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
