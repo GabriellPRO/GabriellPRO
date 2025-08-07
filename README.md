@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gabriell Johansson</h1>
+<h1 align="center">Hi, I'm Gabriel Reis</h1>
 <h3 align="center">Junior Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
 
 ---
