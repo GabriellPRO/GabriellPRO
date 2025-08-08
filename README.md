@@ -1,26 +1,22 @@
-<!-- 🎌 GIF da Bandeira da Austrália -->
+
+<!-- 🇦🇺 Imagem da Bandeira da Austrália -->
 <p align="center">
-  <img src="https://media.tenor.com/qogYEdM7K84AAAAC/australia-flag.gif" width="100%" alt="Australian Flag Banner" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png" width="100%" alt="Australian Flag Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gabriell Johansson</h1>
-<h3 align="center">Junior Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
+<h1 align="center">Hi , I'm Gabriel Reis</h1>
+<h3 align="center"> Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
 
 ---
 
-## 🌏 Why Australia?
-
-🇦🇺 I’m passionate about technology and I dream of working abroad — especially in **Australia**.  
-This profile reflects my journey and goals as a future Fullstack Developer.
-
----
 
 ## 🚀 About Me
 
 - 🌱 Currently learning **JavaScript**, **Node.js**, **React**, and **MongoDB**
-- 💻 Building projects like **weather apps**, **task managers**, and **finance trackers**
 - 🎓 Graduated in **Computer Networks**
-- 🔍 Seeking my first role as a **Junior Fullstack Developer**
+- 💻 Building projects like **weather apps**, **task managers**, and **finance trackers**
+- 🔍 Seeking my first opportunity as a **Junior Fullstack Developer**
+- ☁️ Interested in **cloud deployment**, **APIs**, and **real-world web applications**
 
 ---
 
@@ -30,7 +26,7 @@ This profile reflects my journey and goals as a future Fullstack Developer.
   <a href="https://github.com/GabriellPRO">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriell-johansson/">
+  <a href="https://www.linkedin.com/in/gabriel-de-oliveira-reis-9bb315377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6J5CJa8XRpK5QqtQvkQizQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
