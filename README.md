@@ -1,6 +1,6 @@
-<!-- 🎌 GIF animado da bandeira da Austrália como banner -->
+<!-- 🎌 GIF da Bandeira da Austrália -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag-of-Australia.gif" width="100%" alt="Australian Flag Banner" />
+  <img src="https://media.tenor.com/qogYEdM7K84AAAAC/australia-flag.gif" width="100%" alt="Australian Flag Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gabriell Johansson</h1>
@@ -55,6 +55,7 @@ This profile reflects my journey and goals as a future Fullstack Developer.
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </p>
+
 
 
 </p>
