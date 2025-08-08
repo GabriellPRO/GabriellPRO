@@ -1,20 +1,26 @@
-<!-- Banner GIF -->
+<!-- 🎌 GIF animado da bandeira da Austrália como banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flag-of-Australia.gif" width="100%" alt="Australian Flag Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Gabriel Reis</h1>
-<h3 align="center"> Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
+<h1 align="center">Hi 👋, I'm Gabriell Johansson</h1>
+<h3 align="center">Junior Fullstack Developer | Web Developer in Training | Computer Networks Technologist</h3>
+
+---
+
+## 🌏 Why Australia?
+
+🇦🇺 I’m passionate about technology and I dream of working abroad — especially in **Australia**.  
+This profile reflects my journey and goals as a future Fullstack Developer.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **JavaScript**, **Node.js**, **React**, and **MongoDB** to become a Fullstack Developer.
-- 🎓 Graduated in Computer Networks and transitioning into web development.
-- 💻 I build practical projects like a weather app, a task manager with authentication, and a finance tracker.
-- ☁️ Interested in APIs, JWT authentication, fullstack integration, and cloud deployment.
-- 🕹️ I love games, tech, and I'm always looking to improve my coding skills and creativity.
+- 🌱 Currently learning **JavaScript**, **Node.js**, **React**, and **MongoDB**
+- 💻 Building projects like **weather apps**, **task managers**, and **finance trackers**
+- 🎓 Graduated in **Computer Networks**
+- 🔍 Seeking my first role as a **Junior Fullstack Developer**
 
 ---
 
@@ -22,9 +28,9 @@
 
 <p align="center">
   <a href="https://github.com/GabriellPRO">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-de-oliveira-reis-9bb315377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8HERuxjpS3KbWV9h2PF2zw%3D%3D">
+  <a href="https://www.linkedin.com/in/gabriell-johansson/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -39,23 +45,16 @@
 
 ---
 
-## 📁 Featured Projects
-
-- 🔗 [Clima App - Weather by city](https://github.com/GabriellPRO/clima-app)
-- 🔗 [Task App - Login and MongoDB](https://github.com/GabriellPRO/app-tarefas)
-- 🔗 [Finance Tracker - Income/Expense Tracker](https://github.com/GabriellPRO/finance-tracker) *(coming soon)*
-
----
-
-## 🛠️ Technologies & Tools
+## 🧰 Tech Stack
 
 <p align="center">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
+
+
 </p>
