@@ -3,8 +3,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png" width="100%" alt="Australian Flag Banner" />
 </p>
 
-<h1 align="center">Welcome to my GitHub profile </h1>
-<h3 align="center"> Fullstack Developer | Web Developer in Training | Technologist in Computer Networks</h3>
+<h1 align="center">Welcome to my GitHub profile</h1>
+<h3 align="center">Fullstack Developer | Web Developer in Training | Technologist in Computer Networks</h3>
 
 ---
 
@@ -46,11 +46,14 @@
 
 ## 📂 Featured Projects
 
-- 🔸 [Clima App – Weather by city](https://github.com/GabriellPRO/clima-app)  
-  Weather forecast web app using OpenWeather API
+- 🔸 [Clima App – Weather by City](https://github.com/GabriellPRO/clima-app)  
+  A clean web app to check weather forecasts using the OpenWeather API.
 
-- 🔸 [Task App – Task manager with login & MongoDB](https://github.com/GabriellPRO/app-tarefas)  
-  Fullstack app with authentication and MongoDB integration
+- 🔸 [Task App – Task Manager with Login & MongoDB](https://github.com/GabriellPRO/app-tarefas)  
+  Fullstack app to manage tasks with user authentication and MongoDB integration.
+
+- 🔸 [Finance Tracker – Personal Expense Management](https://github.com/GabriellPRO/finance-tracker)  
+  Fullstack web app to track incomes and expenses, visualize reports, and manage budgets. Built with React, Node.js, Express, and MongoDB.
 
 ---
 
@@ -68,7 +71,9 @@
   <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Express" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
+
 
