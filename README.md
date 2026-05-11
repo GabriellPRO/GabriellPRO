@@ -10,38 +10,27 @@
 
 # 👨‍💻 About Me
 
+<p align="center">
+  Passionate about technology and constantly evolving as a developer 🚀
+</p>
+
+<br>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Passionate+about+technology+and+development;Building+modern+Fullstack+applications;Always+learning+new+technologies+🚀" />
+💻 Fullstack Developer in training focused on building modern and responsive web applications.  
+🎓 Technologist in Computer Networks from Brazil 🇧🇷  
+⚡ Currently improving my skills with JavaScript, React, Node.js, and MongoDB.  
+🚀 Passionate about creating real-world projects and transforming ideas into functional applications.  
+🌎 Interested in backend development, APIs, cloud technologies, and modern UI experiences.  
+🎮 Gamer, tech enthusiast, and always looking for new challenges and opportunities to grow.  
 
 </div>
 
 <br>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-```js
-const gabriel = {
-  nationality: "Brazilian 🇧🇷",
-  role: "Fullstack Developer",
-  education: "Technologist in Computer Networks",
-  
-  currentlyLearning: [
-    "React",
-    "Node.js",
-    "MongoDB",
-    "REST APIs"
-  ],
-
-  interests: [
-    "Frontend",
-    "Backend",
-    "Cloud",
-    "UI/UX"
-  ],
-
-  lifePhilosophy:
-    "Code. Learn. Build. Evolve."
-}
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Everyday-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-00C2FF?style=for-the-badge" />
+</p>
