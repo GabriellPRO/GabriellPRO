@@ -44,13 +44,17 @@ I am a passionate **Fullstack Developer** based in Brazil 🇧🇷 with a solid 
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabriellPRO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GabriellPRO&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabriellPRO&theme=tokyo-night&hide_border=true&area=true" width="800" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellPRO&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=GabriellPRO&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellPRO&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -68,7 +72,7 @@ I am a passionate **Fullstack Developer** based in Brazil 🇧🇷 with a solid 
 # 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-oliveira-reis-9bb315377" target="_blank">
+  <a href=https://www.linkedin.com/in/gabriel-reis-9bb315377/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brm52yY61QhmseYOaA4jwcQ%3D%3D>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/GabriellPRO" target="_blank">
