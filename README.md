@@ -1,67 +1,70 @@
 <!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gabriel%20Reis&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Computer%20Networks%20Technologist&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=240&section=header&text=Gabriel%20Reis&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Computer%20Networks%20Technologist&descAlignY=58"/>
 </p>
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Node.js+%7C+MongoDB;Computer+Networks+Technologist;Building+the+future+with+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Fullstack+Developer;React+•+Node.js+•+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a passionate **Fullstack Developer** based in Brazil 🇧🇷 with a solid background as a **Technologist in Computer Networks**. My journey in tech is driven by the desire to build scalable, user-centric applications and solve complex problems through clean code.
+I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on building scalable and modern web applications.
 
-- 🎓 **Education:** Technologist in Computer Networks.
-- 💡 **Interests:** Fullstack Development, Cloud Architecture, and UI/UX Design.
-- ✍️ **Currently Learning:** Advanced React patterns, Microservices, and System Security.
-- 🎯 **Goals for 2026:** Become a Senior-ready developer, contribute to major Open Source projects, and work in a global environment.
+- 🎓 Technologist in Computer Networks
+- 💻 Fullstack Developer
+- 📚 Learning Advanced React & Microservices
+- 🎯 Goal: Work globally as a Software Developer
 
 ---
 
 # 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <strong>Frontend</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-    </td>
-    <td align="center" width="300">
-      <strong>Backend & DB</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
-    </td>
-    <td align="center" width="300">
-      <strong>Tools & OS</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-    </td>
-  </tr>
-</table>
-
----
-
-# 📊 Stats
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabriellPRO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GabriellPRO&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabriellPRO&theme=tokyo-night&hide_border=true&area=true" width="800" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux&perline=7"/>
 </p>
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/GabriellPRO?style=for-the-badge&logo=github&label=Followers"/>
+  
+  <img src="https://img.shields.io/github/stars/GabriellPRO?style=for-the-badge&logo=github&label=Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-2563eb?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Stack-MERN-111827?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Open%20Source-Learning-0ea5e9?style=for-the-badge"/>
+</p>
+
+---
 
 # 📂 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **🌦️ Weather App** | Real-time weather forecasting using OpenWeather API. | React, Axios | [View Repo](https://github.com/GabriellPRO/clima-app) |
-| **✅ Task Manager** | Fullstack To-Do list with JWT Auth and MongoDB. | Node, React, Mongo | [View Repo](https://github.com/GabriellPRO/app-tarefas) |
-| **💸 Finance Tracker** | Personal finance dashboard with expense monitoring. | MERN Stack | [View Repo](https://github.com/GabriellPRO/finance-tracker) |
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🌦️ Weather App | Real-time weather forecasting | React • Axios |
+| ✅ Task Manager | Fullstack task manager with auth | MERN Stack |
+| 💸 Finance Tracker | Expense tracking dashboard | React • Node.js • MongoDB |
 
 ---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabriellPRO&label=Profile+Views&color=2563eb&style=for-the-badge"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+</p>
 
