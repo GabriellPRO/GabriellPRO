@@ -5,7 +5,9 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Fullstack+Developer;React+•+Node.js+•+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=750&height=60&duration=3000&pause=1000&color=38BDF8&lines=Fullstack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies"
+  />
 </p>
 
 ---
@@ -23,13 +25,26 @@ I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on buildi
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux&perline=7"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    </td>
+    <td align="center" width="300">
+      <strong>Backend & DB</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+    </td>
+    <td align="center" width="300">
+      <strong>Tools & OS</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/GabriellPRO?style=for-the-badge&logo=github&label=Followers"/>
@@ -49,11 +64,19 @@ I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on buildi
 
 # 📂 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🌦️ Weather App | Real-time weather forecasting | React • Axios |
-| ✅ Task Manager | Fullstack task manager with auth | MERN Stack |
-| 💸 Finance Tracker | Expense tracking dashboard | React • Node.js • MongoDB |
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🌦️ Weather App | Real-time weather forecasting app | React • Axios | [Repository](https://github.com/GabriellPRO/clima-app) |
+| ✅ Task Manager | Fullstack task management app with authentication | MERN Stack | [Repository](https://github.com/GabriellPRO/app-tarefas) |
+| 💸 Finance Tracker | Personal finance dashboard with analytics | React • Node.js • MongoDB | [Repository](https://github.com/GabriellPRO/finance-tracker) |
+
+---
+
+# 🏆 Goals
+
+- 🚀 Become a globally-ready Fullstack Developer
+- 🌎 Contribute to Open Source Projects
+- 💡 Build scalable and high-performance applications
 
 ---
 
@@ -67,4 +90,3 @@ I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on buildi
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer"/>
 </p>
-
