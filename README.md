@@ -65,17 +65,3 @@ I am a passionate **Fullstack Developer** based in Brazil 🇧🇷 with a solid 
 
 ---
 
-# 🌐 Connect with me
-
-<p align="center">
-  <a href=https://www.linkedin.com/in/gabriel-reis-9bb315377/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brm52yY61QhmseYOaA4jwcQ%3D%3D>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/GabriellPRO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabriellPRO&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
