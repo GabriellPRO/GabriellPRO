@@ -14,12 +14,14 @@
 
 # 🚀 About Me
 
-I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on building scalable and modern web applications.
+I am a passionate **Fullstack Developer** with a strong background as a **Technologist in Computer Networks**. I enjoy creating modern, scalable, and user-focused applications while constantly improving my skills in software development and system architecture.
 
-- 🎓 Technologist in Computer Networks
-- 💻 Fullstack Developer
-- 📚 Learning Advanced React & Microservices
-- 🎯 Goal: Work globally as a Software Developer
+My passion for technology comes from solving real-world problems through clean code, intuitive design, and efficient solutions. I am always exploring new technologies and best practices to build high-performance applications and deliver better user experiences.
+
+- 🎓 **Education:** Technologist in Computer Networks.
+- 💡 **Interests:** Fullstack Development, Cloud Computing, UI/UX Design, and Software Architecture.
+- ✍️ **Currently Learning:** Advanced React patterns, Microservices, APIs, and System Security.
+- 🎯 **Goals for 2026:** Become a Senior-ready developer, contribute to impactful Open Source projects, and work in international tech environments.
 
 ---
 
@@ -44,7 +46,7 @@ I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on buildi
 
 ---
 
-# 📊 Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/GabriellPRO?style=for-the-badge&logo=github&label=Followers"/>
@@ -66,17 +68,9 @@ I am a passionate **Fullstack Developer** from Brazil 🇧🇷 focused on buildi
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🌦️ Weather App | Real-time weather forecasting app | React • Axios | [Repository](https://github.com/GabriellPRO/clima-app) |
-| ✅ Task Manager | Fullstack task management app with authentication | MERN Stack | [Repository](https://github.com/GabriellPRO/app-tarefas) |
+| 🌦️ Weather App | Real-time weather forecasting using OpenWeather API | React • Axios | [Repository](https://github.com/GabriellPRO/clima-app) |
+| ✅ Task Manager | Fullstack task management app with JWT authentication | MERN Stack | [Repository](https://github.com/GabriellPRO/app-tarefas) |
 | 💸 Finance Tracker | Personal finance dashboard with analytics | React • Node.js • MongoDB | [Repository](https://github.com/GabriellPRO/finance-tracker) |
-
----
-
-# 🏆 Goals
-
-- 🚀 Become a globally-ready Fullstack Developer
-- 🌎 Contribute to Open Source Projects
-- 💡 Build scalable and high-performance applications
 
 ---
 
