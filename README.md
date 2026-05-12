@@ -46,7 +46,7 @@ My passion for technology comes from solving real-world problems through clean c
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/GabriellPRO?style=for-the-badge&logo=github&label=Followers"/>
