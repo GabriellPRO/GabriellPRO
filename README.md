@@ -64,13 +64,16 @@ My passion for technology comes from solving real-world problems through clean c
 
 ---
 
+
 # 📂 Featured Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | 🌦️ Weather App | Real-time weather forecasting using OpenWeather API | React • Axios | [Repository](https://github.com/GabriellPRO/clima-app) |
-| ✅ Task Manager | Fullstack task management app with JWT authentication | MERN Stack | [Repository](https://github.com/GabriellPRO/app-tarefas) |
+| ✅ TaskFlow | Fullstack task management system with JWT authentication, password recovery, protected routes, and full CRUD operations | MERN Stack | [Repository](https://github.com/GabriellPRO/taskflow-app) |
 | 💸 Finance Tracker | Personal finance dashboard with analytics | React • Node.js • MongoDB | [Repository](https://github.com/GabriellPRO/finance-tracker) |
+
+
 
 ---
 
